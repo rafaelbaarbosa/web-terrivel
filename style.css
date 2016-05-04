@@ -1,0 +1,9 @@
+body{
+	font-family: 'Helvetica';
+}
+
+form{
+	border-style: solid;
+	float: left;
+	padding: 20px;
+}
